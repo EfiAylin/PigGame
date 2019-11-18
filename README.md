@@ -1,5 +1,6 @@
 # PigGame
 Dice game in Javascript
+
 Demo of the game: https://piggame1.netlify.com/
 
 GAME RULES:
