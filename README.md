@@ -1,5 +1,5 @@
 # PigGame
-dice game with Javascript
+Dice game with Javascript
 
 GAME RULES:
 - The game has 2 players, playing in rounds
