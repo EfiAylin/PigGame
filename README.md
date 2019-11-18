@@ -1,5 +1,6 @@
 # PigGame
 Dice game with Javascript
+Demo of the game: https://piggame1.netlify.com/
 
 GAME RULES:
 - The game has 2 players, playing in rounds
